@@ -1,3 +1,5 @@
 # newsletter-react
+
 Repository for react project
-Author - Tushar 
+<br>
+Author - Tushar
